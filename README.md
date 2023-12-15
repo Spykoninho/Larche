@@ -8,7 +8,7 @@ le but est de créer un site web dynamique complet from scratch avec base de don
 ## Authors
 
 - [@L4p1s](https://www.github.com/PommePain)
-- [@Spyko](https://www.github.com/mFremiot)
+- [@Spyko](https://github.com/Spykoninho)
 - [@Rayann_mp4](https://www.github.com/Rayann_mp4)
 
 
